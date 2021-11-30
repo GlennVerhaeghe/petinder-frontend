@@ -6575,6 +6575,10 @@ button.close {
   }
 }
 
+.mb-3 {
+  margin-bottom: 10px;
+}
+
 .clearfix:after,
 .clearfix:before {
   content: " ";
